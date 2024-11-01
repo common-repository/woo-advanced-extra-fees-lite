@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-06 12:34+0530\n"
+"PO-Revision-Date: 2022-09-06 12:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:55
+msgid "Fees (configurable per rate)"
+msgstr "Tarifas (configurables por tarifa)"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:56
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:171
+msgid "Advanced Extra Fees"
+msgstr "Tarifas adicionales avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:57
+msgid "Configure WooCommerce Fees"
+msgstr "Configurar tarifas de WooCommerce"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:172
+#: public/partials/waef-match-fee-add-cart.php:27
+msgid "Advanced Fees"
+msgstr "Tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:173
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:174
+msgid "Add New Advanced Fees"
+msgstr "Agregar nuevas tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:175
+msgid "Edit Advanced Fees"
+msgstr "Editar tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:176
+msgid "New Advanced Fees"
+msgstr "Nuevas tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:177
+msgid "View Advanced Fees"
+msgstr "Ver tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:178
+msgid "Search Advanced Fees"
+msgstr "Buscar tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:179
+msgid "No Advanced Fees"
+msgstr "Sin tarifas avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:180
+msgid "No Advanced Fees found in Trash"
+msgstr "No se encontraron tarifas avanzadas en la papelera"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:216
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:219
+msgid "Advanced fees updated."
+msgstr "Tarifas avanzadas actualizadas."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:217
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:218
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:221
+#, php-format
+msgid "Advanced fees restored to revision from %s"
+msgstr "Tarifas avanzadas restauradas a la revisión de %s"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:223
+msgid "Advanced fees published."
+msgstr "Tarifas anticipadas publicadas."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:224
+msgid "Advanced fees saved."
+msgstr "Tarifas avanzadas ahorradas."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:225
+msgid "Advanced fees submitted."
+msgstr "Tarifas anticipadas enviadas."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:227
+#, php-format
+msgid "Advanced fees scheduled for: <strong>%1$s</strong>."
+msgstr "Lista avanzada de tarifas para: <strong>%1$s</strong>."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:228
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:230
+msgid "Advanced fees draft updated."
+msgstr "Borrador de tarifas avanzadas actualizado."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:234
+msgid "Return to Fees overview."
+msgstr "Volver a Resumen de tarifas."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:254
+msgid "Advanced Fees conditions"
+msgstr "Condiciones de Tarifas Avanzadas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:255
+msgid "Fees settings"
+msgstr "Configuración de tarifas"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:459
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:486
+msgid ""
+"You are currently using the Community version of the WooCommerce Advanced "
+"Extra Fees Plugin. Premium users are provided with an additional features "
+"and priority support. Upgrade to Premium today to reap all the benefits."
+msgstr ""
+"Actualmente está utilizando la versión comunitaria del complemento de "
+"tarifas adicionales avanzadas de WooCommerce. Los usuarios Premium reciben "
+"funciones adicionales y soporte prioritario. Actualice a Premium hoy para "
+"obtener todos los beneficios."
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:500
+msgid ""
+"It would mean a lot to us if you would quickly give our plugin a 5-star "
+"rating. Your Review is very important to us as it helps us to grow more!"
+msgstr ""
+"Significaría mucho para nosotros si otorgara rápidamente a nuestro "
+"complemento una calificación de 5 estrellas. ¡Su opinión es muy importante "
+"para nosotros, ya que nos ayuda a crecer más!"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:502
+msgid "Yes you deserve it!"
+msgstr "¡Sí te lo mereces!"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:503
+msgid "Hide this message"
+msgstr "Esconde este mensaje"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:503
+msgid "Already did!"
+msgstr "¡Ya hecho!"
+
+#: admin/class-woocommerce-advanced-extra-fees-lite-admin.php:504
+msgid "Actually, I need a help..."
+msgstr "La verdad es que necesito ayuda..."
+
+#: admin/partials/class-waef-ajax.php:70
+#: admin/partials/settings/meta-box-conditions.php:32
+msgid "Or match all of the following rules to allow this shipping method:"
+msgstr ""
+"O haga coincidir todas las reglas siguientes para permitir este método de "
+"envío:"
+
+#: admin/partials/class-waef-ajax.php:76
+#: admin/partials/settings/meta-box-conditions.php:40
+msgid "Or"
+msgstr "Or"
+
+#: admin/partials/settings/meta-box-conditions.php:22
+msgid "Match all of the following rules to allow this fees:"
+msgstr ""
+"Haga coincidir todas las siguientes reglas para permitir estas tarifas:"
+
+#: admin/partials/settings/meta-box-conditions.php:47
+msgid "No conditions were found. Click the add button to create a new rule."
+msgstr ""
+"No se encontraron condiciones. Haga clic en el botón Agregar para crear una "
+"nueva regla."
+
+#: admin/partials/settings/meta-box-conditions.php:55
+msgid "Add 'Or' group"
+msgstr "Agregar grupo 'O'"
+
+#: admin/partials/settings/meta-box-settings.php:23
+#: admin/partials/views/waef-fees-table.php:28
+msgid "Fees title"
+msgstr "Título de las tarifas"
+
+#: admin/partials/settings/meta-box-settings.php:25
+msgid "e.g. Advanced Extra Fees"
+msgstr "p.ej. Tarifas adicionales avanzadas"
+
+#: admin/partials/settings/meta-box-settings.php:32
+#: admin/partials/settings/meta-box-settings.php:35
+msgid "Fees cost"
+msgstr "Costo de las tarifas"
+
+#: admin/partials/settings/meta-box-settings.php:40
+msgid "Tax status"
+msgstr "Situación fiscal"
+
+#: admin/partials/settings/meta-box-settings.php:42
+msgid "Taxable"
+msgstr "Imponible"
+
+#: admin/partials/settings/meta-box-settings.php:43
+msgid "Not taxable"
+msgstr "No sujeto a impuestos"
+
+#: admin/partials/settings/conditions/condition-conditions.php:18
+msgid "Cart"
+msgstr "Carro"
+
+#: admin/partials/settings/conditions/condition-conditions.php:19
+msgid "Subtotal"
+msgstr "Total parcial"
+
+#: admin/partials/settings/conditions/condition-conditions.php:20
+msgid "Subtotal ex. taxes (Available on pro)"
+msgstr "Subtotal ej. impuestos (Disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:21
+msgid "Tax"
+msgstr "Impuesto"
+
+#: admin/partials/settings/conditions/condition-conditions.php:22
+msgid "Quantity (Available on pro)"
+msgstr "Cantidad (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:23
+msgid "Contains product"
+msgstr "Contiene producto"
+
+#: admin/partials/settings/conditions/condition-conditions.php:24
+msgid "Coupon (Available on pro)"
+msgstr "Cupón (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:25
+msgid "Payment Gateway (Available on pro)"
+msgstr "Pasarela de pago (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:26
+msgid "Weight"
+msgstr "Peso"
+
+#: admin/partials/settings/conditions/condition-conditions.php:27
+msgid "Contains shipping class (Available on pro)"
+msgstr "Contiene clase de envío (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:29
+msgid "User Details"
+msgstr "Detalles de usuario"
+
+#: admin/partials/settings/conditions/condition-conditions.php:30
+msgid "Zipcode (Available on pro)"
+msgstr "Código postal (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:31
+msgid "City (Available on pro)"
+msgstr "Ciudad (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:32
+msgid "State (Available on pro)"
+msgstr "Estado (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:33
+msgid "Country"
+msgstr "País"
+
+#: admin/partials/settings/conditions/condition-conditions.php:34
+msgid "User role (Available on pro)"
+msgstr "Rol de usuario (Disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:36
+msgid "Product"
+msgstr "Producto"
+
+#: admin/partials/settings/conditions/condition-conditions.php:37
+msgid "Width"
+msgstr "Ancho"
+
+#: admin/partials/settings/conditions/condition-conditions.php:38
+msgid "Height (Available on pro)"
+msgstr "Altura (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:39
+msgid "Length (Available on pro)"
+msgstr "Longitud (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:40
+msgid "Stock (Available on pro)"
+msgstr "Stock (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-conditions.php:41
+msgid "Stock status"
+msgstr "Estado del inventario"
+
+#: admin/partials/settings/conditions/condition-conditions.php:42
+msgid "Category (Available on pro)"
+msgstr "Categoría (disponible en pro)"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:16
+msgid "States must be installed in WC"
+msgstr "Estados debe ser instalado en WC"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:17
+msgid "Weight calculated on all the cart contents"
+msgstr "Peso calculado sobre todo el contenido del carrito"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:18
+msgid "Compared to lengthiest product in cart"
+msgstr "Comparado con el producto más largo en el carrito"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:19
+msgid "Compared to widest product in cart"
+msgstr "En comparación con el producto más amplio del carrito"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:20
+msgid "Compared to highest product in cart"
+msgstr "Comparado con el producto más alto en el carrito"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:21
+msgid "All products in cart must match stock status"
+msgstr ""
+"Todos los productos en el carrito deben coincidir con el estado del stock"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:22
+msgid "All products in cart must match category"
+msgstr "Todos los productos en el carrito deben coincidir con la categoría"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:23
+msgid "Cart must contain one of this product, other products are allowed"
+msgstr ""
+"El carrito debe contener uno de este producto, se permiten otros productos"
+
+#: admin/partials/settings/conditions/condition-descriptions.php:24
+msgid "Cart must contain at least one product with the selected shipping class"
+msgstr ""
+"El carrito debe contener al menos un producto con la clase de envío "
+"seleccionada"
+
+#: admin/partials/settings/conditions/condition-operators.php:18
+msgid "Equal to"
+msgstr "Igual a"
+
+#: admin/partials/settings/conditions/condition-operators.php:19
+msgid "Not equal to"
+msgstr "No igual a"
+
+#: admin/partials/settings/conditions/condition-operators.php:20
+msgid "Greater or equal to"
+msgstr "Mayor o igual a"
+
+#: admin/partials/settings/conditions/condition-operators.php:21
+msgid "Less or equal to "
+msgstr "Menor o igual a "
+
+#: admin/partials/settings/conditions/condition-values.php:60
+msgid "In stock"
+msgstr "En stock"
+
+#: admin/partials/settings/conditions/condition-values.php:61
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: admin/partials/settings/conditions/condition-values.php:121
+msgid "There are no options available"
+msgstr "No hay opciones disponibles"
+
+#: admin/partials/views/waef-fees-table.php:19
+msgid "Advanced Extra Fees rates"
+msgstr "Tarifas Tarifas Adicionales Avanzada"
+
+#: admin/partials/views/waef-fees-table.php:27
+msgid "Title"
+msgstr "Título"
+
+#: admin/partials/views/waef-fees-table.php:29
+msgid "Fees price"
+msgstr "Precio de las tarifas"
+
+#: admin/partials/views/waef-fees-table.php:30
+msgid "# Groups"
+msgstr "# Grupos"
+
+#: admin/partials/views/waef-fees-table.php:49
+#: admin/partials/views/waef-fees-table.php:56
+msgid "Edit Method"
+msgstr "Editar método"
+
+#: admin/partials/views/waef-fees-table.php:57
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/partials/views/waef-fees-table.php:62
+msgid "Delete Method"
+msgstr "Método de eliminación"
+
+#: admin/partials/views/waef-fees-table.php:63
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/partials/views/waef-fees-table.php:70
+msgid "Shipping"
+msgstr "Transporte"
+
+#: admin/partials/views/waef-fees-table.php:85
+msgid "There are no Advanced Extra Fees conditions. Yet..."
+msgstr "No hay condiciones de Cargos Adicionales Avanzado. Aún..."
+
+#: admin/partials/views/waef-fees-table.php:95
+msgid "Add New Fees"
+msgstr "Agregar nuevas tarifas"
+
+#: includes/class-woocommerce-advanced-extra-fees-lite-activator.php:38
+msgid "WooCommerce Advanced Extra Fees Lite"
+msgstr "WooCommerce Advanced Extra Fees Lite"
+
+#: includes/class-woocommerce-advanced-extra-fees-lite-activator.php:39
+msgid "Plugin requires"
+msgstr "El complemento requiere"
+
+#: includes/class-woocommerce-advanced-extra-fees-lite-activator.php:40
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-woocommerce-advanced-extra-fees-lite-activator.php:42
+msgid "Plugins page"
+msgstr "Página de complementos"
+
+#: public/partials/waef-match-fee-add-cart.php:26
+msgid "Advanced Fees (configurable per rate)"
+msgstr "Tarifas Avanzadas (configurable por tarifa)"
+
+#: public/partials/waef-match-fee-add-cart.php:28
+msgid "Configure WooCommerce Advanced Extra Fees"
+msgstr "Configurar tarifas adicionales avanzadas de WooCommerce"
+
+#: public/partials/waef-match-fee-add-cart.php:152
+msgid "Advance Extra Fees"
+msgstr "Tarifas adicionales anticipadas"
